@@ -7,7 +7,7 @@ def python_flask():
       Docker container application: Python & Flask!</h1>
       <p style="text-algin:center; color:deepskyblue;">
         This is micro web framework for running Flask
-        inside Docker swarm rolling update>.</p>
+        inside Docker swarm rolling update2>.</p>
     """
 
 if __name__ == '__main__':
